@@ -1,2 +1,2 @@
-# github.io
-Fuck sirhurt
+# fuck-sirhurt.github.io
+fuck sirhurt
